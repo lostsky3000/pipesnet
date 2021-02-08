@@ -1,0 +1,9 @@
+.svn/
+VisualGDB/
+Debug/
+Release/
+*.vcxproj
+*.filters
+*.vgdbsettings
+*.TMP
+*.user
