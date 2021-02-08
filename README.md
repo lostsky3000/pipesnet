@@ -1,2 +1,2 @@
 # pipesnet
-a high performance game server frameworke with lua+c
+a high performance game server framework with lua+c
