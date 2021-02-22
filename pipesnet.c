@@ -36,9 +36,10 @@ void structTest();
 void atomTest();
 void alignmentTest();
 void jsonTest();
+/*
 int main(int argc, char *argv[])
 {
-	pid_t pid = getpid();
+	//pid_t pid = getpid();
 	
 	//minheapTest();
 	//timingWheelTest();
@@ -49,7 +50,7 @@ int main(int argc, char *argv[])
 	//structTest();
 	//atomTest();
 	//alignmentTest();
-	jsonTest();
+	//jsonTest();
 	
 	int ret = 0;
 	
@@ -59,7 +60,7 @@ int main(int argc, char *argv[])
 	 
 	return ret;
 }
-
+*/
 // json test
 void walkItem(cJSON* obj)
 {
